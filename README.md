@@ -90,3 +90,20 @@ What can be the possible reasons for this error to occur and what are the propos
 36. How To Install the Send-Only Mail Server "Exim" on Ubuntu 18.04 LTS? Once the installation steps are done, explain how to test whether the installation is correct or not with a working example of sending your first test email. https://www.exim.org/ [WRITE YOUR NAME]
 
 37. How To Install the Send-Only Mail Server "Exim" on CentOS 7? Once the installation steps are done, explain how to test whether the installation is correct or not with a working example of sending your first test email. https://www.exim.org/ [Siddhesh Kadam]
+
+### Added on 26-Sept-2019
+
+38. Explain how to download phpmailer and write examples for each of the below : ( write about the various datatype/validation used for each parameter and encoding supported for attachment.)
+ a) sending emails to one and multiple recipient, 
+ b) sending emails to one and multiple recipient_cc,
+ c) sending emails to one and multiple recipient_bcc, 
+ d) sending emails to one and multiple sending attachments(txt,xlxs,pdf and ..)
+ e) sending emails with body format (text / html / images /if any other)
+ f) explain how you solved the errors which you got while executing above.
+
+39. What is javamailAPI ? how to install javamailAPI? write examples for each of the below :
+ a) simple example for sending emails from javamailAPI
+ b) send email through smtp without authentication
+ c) send email using TLS and SSL authentication
+ d) send emails passing attachment and images
+ e) explain how you solved the errors which you got while executing above.
