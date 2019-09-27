@@ -93,28 +93,28 @@ What can be the possible reasons for this error to occur and what are the propos
 
 ### Added on 26-Sept-2019
 
-38. Explain how to download phpmailer and write examples for each of the below : ( write about the various datatype/validation used for each parameter and encoding supported for attachment.)
+38. Explain how to download phpmailer and write examples for each of the below: (Write about the various datatype/validation used for each of the parameters and type of encoding supported for attachments)
  
- * sending emails to one and multiple recipient, 
+  * sending emails to one and multiple recipient, 
  
- * sending emails to one and multiple recipient_cc,
+  * sending emails to one and multiple recipient_cc,
  
- * sending emails to one and multiple recipient_bcc, 
+  * sending emails to one and multiple recipient_bcc, 
  
- * sending emails to one and multiple sending attachments(txt,xlxs,pdf and ..)
+  * sending emails to one and multiple sending attachments(txt,xlxs,pdf and ..)
  
- * sending emails with body format (text / html / images /if any other)
+  * sending emails with body format (text / html / images /if any other)
  
- * explain how you solved the errors which you got while executing above.
+  * explain how you solved the errors which you got while executing above.
 
-39. What is javamailAPI ? how to install javamailAPI? write examples for each of the below :
+39. What is javamailAPI? How to install javamailAPI? Write examples for each of the below: (Write about the various datatype/validation used for each of the parameters and type of encoding supported for attachments)
  
- * simple example for sending emails from javamailAPI
+  * simple example for sending emails from javamailAPI
  
- * send email through smtp without authentication
+  * send email through smtp without authentication
  
- * send email using TLS and SSL authentication
+  * send email using TLS and SSL authentication
  
- * send emails passing attachment and images
+  * send emails passing attachment and images
  
- * explain how you solved the errors which you got while executing above.
+  * explain how you solved the errors which you got while executing above.
