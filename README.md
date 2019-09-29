@@ -117,4 +117,4 @@ What can be the possible reasons for this error to occur and what are the propos
  
   * send emails passing attachment and images
  
-  * explain how you solved the errors which you got while executing above.
+  * explain how you solved the errors which you got while executing above.[Rishabh]
