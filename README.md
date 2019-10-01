@@ -105,7 +105,7 @@ What can be the possible reasons for this error to occur and what are the propos
  
   * sending emails with body format (text / html / images /if any other)
  
-  * explain how you solved the errors which you got while executing above.
+  * explain how you solved the errors which you got while executing above.[Rishabh]
 
 39. What is javamailAPI? How to install javamailAPI? Write examples for each of the below: (Write about the various datatype/validation used for each of the parameters and type of encoding supported for attachments)
  
